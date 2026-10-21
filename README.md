@@ -9,7 +9,7 @@ Find article illustrations with your AI assistant. Search [Imagen Chat](https://
 Requires **Node.js 22+**. This Skill has no npm runtime dependencies.
 
 ```sh
-npx skills add qiayanai/imagen-search --skill imagen-search
+npx skills add liu-cn/imagen-search --skill imagen-search
 ```
 
 Alternatively, ask your AI assistant:
